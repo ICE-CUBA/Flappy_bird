@@ -16,4 +16,5 @@
    ```bash
    git clone https://github.com/your-username/flappy-bird-python.git
 2. **Environment Setting**:
+   ```bash
    pip install pygame
